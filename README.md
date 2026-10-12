@@ -17,7 +17,7 @@
 ![Giao diện chính](./ảnh/bai1.png)
 
 ### 2. Ảnh màn hình Chức năng thực thi / Kết quả
-![Thực thi chức năng](./ảnh/bai1test.png)
+![Thực thi chức năng](./ảnh/bai1test.PNG)
 
 ### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
 ![Kiểm tra lỗi](./ảnh/bai1loi.png)
