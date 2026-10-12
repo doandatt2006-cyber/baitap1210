@@ -1,0 +1,16 @@
+C:\Users\AD\source\repos\baitap1012\baitap1012\bin\Debug\net10.0-windows\baitap1012.exe
+C:\Users\AD\source\repos\baitap1012\baitap1012\bin\Debug\net10.0-windows\baitap1012.deps.json
+C:\Users\AD\source\repos\baitap1012\baitap1012\bin\Debug\net10.0-windows\baitap1012.runtimeconfig.json
+C:\Users\AD\source\repos\baitap1012\baitap1012\bin\Debug\net10.0-windows\baitap1012.dll
+C:\Users\AD\source\repos\baitap1012\baitap1012\bin\Debug\net10.0-windows\baitap1012.pdb
+C:\Users\AD\source\repos\baitap1012\baitap1012\obj\Debug\net10.0-windows\baitap1012.csproj.GenerateResource.cache
+C:\Users\AD\source\repos\baitap1012\baitap1012\obj\Debug\net10.0-windows\baitap1012.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AD\source\repos\baitap1012\baitap1012\obj\Debug\net10.0-windows\baitap1012.AssemblyInfoInputs.cache
+C:\Users\AD\source\repos\baitap1012\baitap1012\obj\Debug\net10.0-windows\baitap1012.AssemblyInfo.cs
+C:\Users\AD\source\repos\baitap1012\baitap1012\obj\Debug\net10.0-windows\baitap1012.csproj.CoreCompileInputs.cache
+C:\Users\AD\source\repos\baitap1012\baitap1012\obj\Debug\net10.0-windows\baitap1012.dll
+C:\Users\AD\source\repos\baitap1012\baitap1012\obj\Debug\net10.0-windows\refint\baitap1012.dll
+C:\Users\AD\source\repos\baitap1012\baitap1012\obj\Debug\net10.0-windows\baitap1012.pdb
+C:\Users\AD\source\repos\baitap1012\baitap1012\obj\Debug\net10.0-windows\baitap1012.genruntimeconfig.cache
+C:\Users\AD\source\repos\baitap1012\baitap1012\obj\Debug\net10.0-windows\ref\baitap1012.dll
+C:\Users\AD\source\repos\baitap1012\baitap1012\obj\Debug\net10.0-windows\baitap1012.Form1.resources
