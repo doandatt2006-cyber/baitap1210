@@ -3,11 +3,39 @@
   "WorkspaceRootPath": "C:\\Users\\AD\\source\\repos\\baitap1012\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F335906-9A2D-4730-8E3E-FD9EE94AD9EB}|baitap1012\\baitap1012.csproj|c:\\users\\ad\\source\\repos\\baitap1012\\baitap1012\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F335906-9A2D-4730-8E3E-FD9EE94AD9EB}|baitap1012\\baitap1012.csproj|solutionrelative:baitap1012\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50AA5B47-E4B5-D352-5575-286A59DDD5C0}|baitap1012\\baitap1012.csproj|c:\\users\\ad\\source\\repos\\baitap1012\\baitap1012\\formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50AA5B47-E4B5-D352-5575-286A59DDD5C0}|baitap1012\\baitap1012.csproj|solutionrelative:baitap1012\\formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F335906-9A2D-4730-8E3E-FD9EE94AD9EB}|baitap1012\\baitap1012.csproj|c:\\users\\ad\\source\\repos\\baitap1012\\baitap1012\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{50AA5B47-E4B5-D352-5575-286A59DDD5C0}|baitap1012\\baitap1012.csproj|C:\\Users\\AD\\source\\repos\\baitap1012\\baitap1012\\formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50AA5B47-E4B5-D352-5575-286A59DDD5C0}|baitap1012\\baitap1012.csproj|solutionrelative:baitap1012\\formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50AA5B47-E4B5-D352-5575-286A59DDD5C0}|baitap1012\\baitap1012.csproj|c:\\users\\ad\\source\\repos\\baitap1012\\baitap1012\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50AA5B47-E4B5-D352-5575-286A59DDD5C0}|baitap1012\\baitap1012.csproj|solutionrelative:baitap1012\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50AA5B47-E4B5-D352-5575-286A59DDD5C0}|baitap1012\\baitap1012.csproj|C:\\Users\\AD\\source\\repos\\baitap1012\\baitap1012\\bai4_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50AA5B47-E4B5-D352-5575-286A59DDD5C0}|baitap1012\\baitap1012.csproj|solutionrelative:baitap1012\\bai4_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50AA5B47-E4B5-D352-5575-286A59DDD5C0}|baitap1012\\baitap1012.csproj|C:\\Users\\AD\\source\\repos\\baitap1012\\baitap1012\\bai4.7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50AA5B47-E4B5-D352-5575-286A59DDD5C0}|baitap1012\\baitap1012.csproj|solutionrelative:baitap1012\\bai4.7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50AA5B47-E4B5-D352-5575-286A59DDD5C0}|baitap1012\\baitap1012.csproj|c:\\users\\ad\\source\\repos\\baitap1012\\baitap1012\\bai4.7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50AA5B47-E4B5-D352-5575-286A59DDD5C0}|baitap1012\\baitap1012.csproj|solutionrelative:baitap1012\\bai4.7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50AA5B47-E4B5-D352-5575-286A59DDD5C0}|baitap1012\\baitap1012.csproj|c:\\users\\ad\\source\\repos\\baitap1012\\baitap1012\\baitap1012.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{50AA5B47-E4B5-D352-5575-286A59DDD5C0}|baitap1012\\baitap1012.csproj|solutionrelative:baitap1012\\baitap1012.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50AA5B47-E4B5-D352-5575-286A59DDD5C0}|baitap1012\\baitap1012.csproj|c:\\users\\ad\\source\\repos\\baitap1012\\baitap1012\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50AA5B47-E4B5-D352-5575-286A59DDD5C0}|baitap1012\\baitap1012.csproj|solutionrelative:baitap1012\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F335906-9A2D-4730-8E3E-FD9EE94AD9EB}|baitap1012\\baitap1012.csproj|C:\\Users\\AD\\source\\repos\\baitap1012\\baitap1012\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5F335906-9A2D-4730-8E3E-FD9EE94AD9EB}|baitap1012\\baitap1012.csproj|solutionrelative:baitap1012\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -23,27 +51,108 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FormStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\baitap1012\\baitap1012\\FormStudent.cs",
+              "RelativeDocumentMoniker": "baitap1012\\FormStudent.cs",
+              "ToolTip": "C:\\Users\\AD\\source\\repos\\baitap1012\\baitap1012\\FormStudent.cs [Design]",
+              "RelativeToolTip": "baitap1012\\FormStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T09:28:58.875Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormStudent.cs",
+              "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\baitap1012\\baitap1012\\FormStudent.cs",
+              "RelativeDocumentMoniker": "baitap1012\\FormStudent.cs",
+              "ToolTip": "C:\\Users\\AD\\source\\repos\\baitap1012\\baitap1012\\FormStudent.cs",
+              "RelativeToolTip": "baitap1012\\FormStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T10:35:42.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bai4_8.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\baitap1012\\baitap1012\\bai4_8.cs",
+              "RelativeDocumentMoniker": "baitap1012\\bai4_8.cs",
+              "ToolTip": "C:\\Users\\AD\\source\\repos\\baitap1012\\baitap1012\\bai4_8.cs [Design]",
+              "RelativeToolTip": "baitap1012\\bai4_8.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T10:24:16.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\baitap1012\\baitap1012\\Program.cs",
+              "RelativeDocumentMoniker": "baitap1012\\Program.cs",
+              "ToolTip": "C:\\Users\\AD\\source\\repos\\baitap1012\\baitap1012\\Program.cs",
+              "RelativeToolTip": "baitap1012\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T09:57:50.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bai4.7.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\baitap1012\\baitap1012\\bai4.7.cs",
+              "RelativeDocumentMoniker": "baitap1012\\bai4.7.cs",
+              "ToolTip": "C:\\Users\\AD\\source\\repos\\baitap1012\\baitap1012\\bai4.7.cs [Design]",
+              "RelativeToolTip": "baitap1012\\bai4.7.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T08:52:34.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bai4.7.cs",
+              "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\baitap1012\\baitap1012\\bai4.7.cs",
+              "RelativeDocumentMoniker": "baitap1012\\bai4.7.cs",
+              "ToolTip": "C:\\Users\\AD\\source\\repos\\baitap1012\\baitap1012\\bai4.7.cs",
+              "RelativeToolTip": "baitap1012\\bai4.7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T01:55:02.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "baitap1012.csproj",
+              "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\baitap1012\\baitap1012\\baitap1012.csproj",
+              "RelativeDocumentMoniker": "baitap1012\\baitap1012.csproj",
+              "ToolTip": "C:\\Users\\AD\\source\\repos\\baitap1012\\baitap1012\\baitap1012.csproj",
+              "RelativeToolTip": "baitap1012\\baitap1012.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-12T09:00:49.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\baitap1012\\baitap1012\\Form1.cs",
               "RelativeDocumentMoniker": "baitap1012\\Form1.cs",
               "ToolTip": "C:\\Users\\AD\\source\\repos\\baitap1012\\baitap1012\\Form1.cs [Design]",
               "RelativeToolTip": "baitap1012\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T08:01:03.055Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-10-12T08:01:03.055Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\baitap1012\\baitap1012\\Form1.cs",
               "RelativeDocumentMoniker": "baitap1012\\Form1.cs",
               "ToolTip": "C:\\Users\\AD\\source\\repos\\baitap1012\\baitap1012\\Form1.cs",
               "RelativeToolTip": "baitap1012\\Form1.cs",
-              "ViewState": "AgIAAIYAAAAAAAAAAAAUwJ4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAUwJ4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T07:51:29.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-12T07:51:29.401Z"
             }
           ]
         }

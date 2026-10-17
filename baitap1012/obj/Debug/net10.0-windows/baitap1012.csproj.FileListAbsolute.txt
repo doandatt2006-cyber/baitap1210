@@ -14,3 +14,7 @@ C:\Users\AD\source\repos\baitap1012\baitap1012\obj\Debug\net10.0-windows\baitap1
 C:\Users\AD\source\repos\baitap1012\baitap1012\obj\Debug\net10.0-windows\baitap1012.genruntimeconfig.cache
 C:\Users\AD\source\repos\baitap1012\baitap1012\obj\Debug\net10.0-windows\ref\baitap1012.dll
 C:\Users\AD\source\repos\baitap1012\baitap1012\obj\Debug\net10.0-windows\baitap1012.Form1.resources
+C:\Users\AD\source\repos\baitap1012\baitap1012\obj\Debug\net10.0-windows\baitap1012.bai4.resources
+C:\Users\AD\source\repos\baitap1012\baitap1012\obj\Debug\net10.0-windows\baitap1012.FormStudent.resources
+C:\Users\AD\source\repos\baitap1012\baitap1012\obj\Debug\net10.0-windows\baitap1012.sourcelink.json
+C:\Users\AD\source\repos\baitap1012\baitap1012\obj\Debug\net10.0-windows\baitap1012.bai4_8.resources
