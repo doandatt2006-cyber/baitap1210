@@ -25,12 +25,21 @@
 ### Bai 2
 
 ### 1. Ảnh màn hình Giao diện chính
-![Giao diện chính](./ảnh/bai2.png)
+![Giao diện chính](./ảnh/bai4.7.PNG)
 
 ### 2. Ảnh màn hình Chức năng thực thi / Kết quả
-![Thực thi chức năng](./ảnh/bai2kq.png)
+![Thực thi chức năng](./ảnh/bai2qlisv.PNG)
 
-### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
-![Kiểm tra lỗi](./ảnh/bai2loi.png)
+![Kiểm tra lỗi](./ảnh/bai4.7dangxuat.PNG)
+
+### Bai 3
+
+### 1. Ảnh màn hình Giao diện chính
+![Giao diện chính](./ảnh/bai4.8.PNG)
+
+### 2. Ảnh màn hình Chức năng thực thi / Kết quả
+![Thực thi chức năng](./ảnh/bai4.8test.PNG)
+
+
 
 
