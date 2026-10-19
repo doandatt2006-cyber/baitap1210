@@ -28,7 +28,7 @@
 ![Giao diện chính](./ảnh/bai4.7.PNG)
 
 ### 2. Ảnh màn hình Chức năng thực thi / Kết quả
-![Thực thi chức năng](./ảnh/bai2qlisv.PNG)
+![Thực thi chức năng](./ảnh/bai4.7qlisv.PNG)
 
 ![Kiểm tra lỗi](./ảnh/bai4.7dangxuat.PNG)
 
