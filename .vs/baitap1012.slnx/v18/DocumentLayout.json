@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\AD\\source\\repos\\baitap1012\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50AA5B47-E4B5-D352-5575-286A59DDD5C0}|baitap1012\\baitap1012.csproj|c:\\users\\ad\\source\\repos\\baitap1012\\baitap1012\\formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50AA5B47-E4B5-D352-5575-286A59DDD5C0}|baitap1012\\baitap1012.csproj|solutionrelative:baitap1012\\formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{50AA5B47-E4B5-D352-5575-286A59DDD5C0}|baitap1012\\baitap1012.csproj|C:\\Users\\AD\\source\\repos\\baitap1012\\baitap1012\\formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{50AA5B47-E4B5-D352-5575-286A59DDD5C0}|baitap1012\\baitap1012.csproj|solutionrelative:baitap1012\\formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50AA5B47-E4B5-D352-5575-286A59DDD5C0}|baitap1012\\baitap1012.csproj|c:\\users\\ad\\source\\repos\\baitap1012\\baitap1012\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50AA5B47-E4B5-D352-5575-286A59DDD5C0}|baitap1012\\baitap1012.csproj|solutionrelative:baitap1012\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50AA5B47-E4B5-D352-5575-286A59DDD5C0}|baitap1012\\baitap1012.csproj|c:\\users\\ad\\source\\repos\\baitap1012\\baitap1012\\formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50AA5B47-E4B5-D352-5575-286A59DDD5C0}|baitap1012\\baitap1012.csproj|solutionrelative:baitap1012\\formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50AA5B47-E4B5-D352-5575-286A59DDD5C0}|baitap1012\\baitap1012.csproj|C:\\Users\\AD\\source\\repos\\baitap1012\\baitap1012\\bai4_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "FormStudent.cs [Design]",
               "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\baitap1012\\baitap1012\\FormStudent.cs",
               "RelativeDocumentMoniker": "baitap1012\\FormStudent.cs",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "FormStudent.cs",
               "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\baitap1012\\baitap1012\\FormStudent.cs",
               "RelativeDocumentMoniker": "baitap1012\\FormStudent.cs",
@@ -86,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\baitap1012\\baitap1012\\Program.cs",
               "RelativeDocumentMoniker": "baitap1012\\Program.cs",
@@ -94,7 +94,8 @@
               "RelativeToolTip": "baitap1012\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T09:57:50.969Z"
+              "WhenOpened": "2026-10-16T09:57:50.969Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

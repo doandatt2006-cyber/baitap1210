@@ -39,13 +39,13 @@
             // 
             progressBar1.Location = new Point(45, 28);
             progressBar1.Name = "progressBar1";
-            progressBar1.Size = new Size(125, 29);
+            progressBar1.Size = new Size(154, 29);
             progressBar1.TabIndex = 0;
             // 
             // lblPercent
             // 
             lblPercent.AutoSize = true;
-            lblPercent.Location = new Point(82, 106);
+            lblPercent.Location = new Point(61, 88);
             lblPercent.Name = "lblPercent";
             lblPercent.Size = new Size(29, 20);
             lblPercent.TabIndex = 1;
@@ -53,7 +53,7 @@
             // 
             // btnLoadData
             // 
-            btnLoadData.Location = new Point(98, 156);
+            btnLoadData.Location = new Point(45, 139);
             btnLoadData.Name = "btnLoadData";
             btnLoadData.Size = new Size(168, 29);
             btnLoadData.TabIndex = 2;
@@ -64,10 +64,10 @@
             // dataGridView1
             // 
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(45, 250);
+            dataGridView1.Location = new Point(45, 208);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersWidth = 51;
-            dataGridView1.Size = new Size(300, 188);
+            dataGridView1.Size = new Size(662, 202);
             dataGridView1.TabIndex = 3;
             // 
             // FormStudent
